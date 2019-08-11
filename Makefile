@@ -1,7 +1,7 @@
 CC = gcc
 LIBS  = -lncurses 
 SRC = src/snake.c
-INCLUDE = include/snake.h
+INCLUDE = include/
 
 run: snake
 	./snake
