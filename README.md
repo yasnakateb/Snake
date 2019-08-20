@@ -22,7 +22,7 @@ Dependencies
    <code>$ brew install ncurses</code>
     
 2. Clone the repository
-3. Run <code>make</code>
+3. Run <code>$ make</code>
 4. Run the executable <code>snake</code>
 
 ![](ScreenShots/snake.png)
